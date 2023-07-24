@@ -1,0 +1,25 @@
+1. Trang web bán hàng điện tử:
+Các trang required:
+    - Trang login
+    - Trang homepage
+    - Trang list sản phẩm
+    - Trang chi tiết sản phẩm
+    - Trang giỏ hàng
+    - Trang thanh toán
+Các trang nâng cao:
+    - Trang đăng ký
+    - Trang search sản phẩm (Theo khoảng giá, theo tên, theo danh mục, ...)
+    - Trang chi tiết sản phẩm (Show các sản phẩm có cùng danh mục)
+
+2. Trang web quản lý điểm:
+Các trang required:
+    - Trang quản login
+    - Trang homepage
+    - Trang thống kê
+    - Trang list sinh viên
+    - Thêm sửa xoá sinh viên
+    - Trang quản lý điểm sinh viên (Toán, Lý, Hoá)
+Các trang nâng cao: 
+    - Trang đăng ký giáo viên
+    - Trang search sinh viên (Theo tên)
+    - Trang search sinh viên (sort theo đầu điểm)
